@@ -12,7 +12,8 @@
 
 </div>
 
-# 📄 Landing Page/Starbucks ☕ ![status-finalizado](https://user-images.githubusercontent.com/62897976/185768561-589083e1-f18f-480b-9709-0ca24acf9c6d.svg)
+# 📄 Landing Page/Starbucks ☕ 
+![status-finalizado](https://user-images.githubusercontent.com/62897976/185768561-589083e1-f18f-480b-9709-0ca24acf9c6d.svg)
 
 
 > Resumo do Projeto: Landing Page é uma página que conta com todos os elementos voltados à conversão, do visitante ao Lead ou da oportunidade ao cliente. 
